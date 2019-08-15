@@ -1,1 +1,1 @@
-print "Hello big world"
+print "Hello small world"
