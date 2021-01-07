@@ -1,4 +1,8 @@
+TRESTING GIT GIT GIT GIT 
 
+<<<<<<< HEAD
 
 NOOOOOOOOOOOOOOOOOOOOO
 yesssssssssssssss
+=======
+>>>>>>> d5af5bb4fe7765eecff0eed6bdc0bdd45c77f4e1
